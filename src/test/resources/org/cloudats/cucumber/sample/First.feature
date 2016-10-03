@@ -9,5 +9,5 @@ Scenario Outline: Finding some cheese
 	Examples: Single query
   	|  query	|  output  |
   	|  Chees! |  Chees!  |
-  	#|  foo 		|  bar		 |
-  	#|  foo 		|  foo		 |
+  	|  foo 		|  bar		 |
+  	|  foo 		|  foo		 |
